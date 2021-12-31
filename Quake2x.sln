@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Quake2x", "Quake2x.vcproj", "{96694C6E-E3FD-42C8-8758-84AAC3DDF5C8}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Profile = Profile
+		Profile_FastCap = Profile_FastCap
+		Release = Release
+		Release_LTCG = Release_LTCG
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{96694C6E-E3FD-42C8-8758-84AAC3DDF5C8}.Debug.ActiveCfg = Debug|Xbox
+		{96694C6E-E3FD-42C8-8758-84AAC3DDF5C8}.Debug.Build.0 = Debug|Xbox
+		{96694C6E-E3FD-42C8-8758-84AAC3DDF5C8}.Profile.ActiveCfg = Profile|Xbox
+		{96694C6E-E3FD-42C8-8758-84AAC3DDF5C8}.Profile.Build.0 = Profile|Xbox
+		{96694C6E-E3FD-42C8-8758-84AAC3DDF5C8}.Profile_FastCap.ActiveCfg = Profile_FastCap|Xbox
+		{96694C6E-E3FD-42C8-8758-84AAC3DDF5C8}.Profile_FastCap.Build.0 = Profile_FastCap|Xbox
+		{96694C6E-E3FD-42C8-8758-84AAC3DDF5C8}.Release.ActiveCfg = Release|Xbox
+		{96694C6E-E3FD-42C8-8758-84AAC3DDF5C8}.Release.Build.0 = Release|Xbox
+		{96694C6E-E3FD-42C8-8758-84AAC3DDF5C8}.Release_LTCG.ActiveCfg = Release_LTCG|Xbox
+		{96694C6E-E3FD-42C8-8758-84AAC3DDF5C8}.Release_LTCG.Build.0 = Release_LTCG|Xbox
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
